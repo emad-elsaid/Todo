@@ -1,6 +1,6 @@
 Screenshot
 -----------
-![screenshot](screenshot.png)
+![screenshot](https://github.com/blazeeboy/Todo/raw/master/screenshot.png)
 
 Introduction
 -------------
